@@ -1,0 +1,13 @@
+package com.bili.pili_service;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PiliServiceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

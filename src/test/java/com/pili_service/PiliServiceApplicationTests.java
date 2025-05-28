@@ -1,4 +1,4 @@
-package com.bili.pili_service;
+package com.pili_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.bili.pili_service.config;
+package com.pili_service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

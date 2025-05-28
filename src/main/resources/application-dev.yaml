@@ -12,18 +12,15 @@ spring:
     password: Lz001126.
     driver-class-name: com.mysql.cj.jdbc.Driver
 
-files:
-  videoPath: D:/project/code/bili/data/resource/
-  avatarPath: D:/project/code/bili/data/avatar/
-  sysPath: D:/project/code/bili/data/sys/
-  mgPath: D:/project/code/bili/data/mg/
-  animationPath: D:/project/code/bili/data/animation/
-
-  videoNet: http://127.0.0.1:8082/video/
-  avatarNet: http://127.0.0.1:8082/avatar/
-  sysNet: http://127.0.0.1:8082/sys/
-  mgNet: http://127.0.0.1:8082/mg/
-  animationNet: http://127.0.0.1:8082/animation/
+ip: http://127.0.0.1:8081
+resource:
+  prefix: D:/project/code/
+  path:
+    video: pili/data/resource/
+    avatar: pili/data/avatar/
+    sys: pili/data/sys/
+    mg: pili/data/mg/
+    animation: pili/data/animation/
 
 alipay:
   appId: 9021000141641323

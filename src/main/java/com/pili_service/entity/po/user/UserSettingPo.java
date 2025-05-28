@@ -1,4 +1,4 @@
-package com.bili.pili_service.entity.po.user;
+package com.pili_service.entity.po.user;
 
 import lombok.Data;
 

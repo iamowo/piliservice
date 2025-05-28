@@ -1,4 +1,4 @@
-package com.bili.pili_service.entity.vo.video;
+package com.pili_service.entity.vo.video;
 
 import lombok.Data;
 

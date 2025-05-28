@@ -1,4 +1,4 @@
-package com.bili.pili_service.entity.vo.user;
+package com.pili_service.entity.vo.user;
 /*
 *  基础用户信息
 * */
